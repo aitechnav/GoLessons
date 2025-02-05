@@ -1,5 +1,5 @@
 # Go Lessons
-
+(To be updated)
 1. Core concepts
 - Structs and interfaces
 - Pointers and memory management
